@@ -16,7 +16,7 @@ export default function Hero() {
       />
 
       {/* Cinematic Overlay */}
-      <div className="absolute inset-0 bg-black/20" />
+      <div className="absolute inset-0 bg-black/40" />
 
       {/* Gradient Depth */}
       <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/30 to-black/80" />
