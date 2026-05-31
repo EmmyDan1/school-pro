@@ -36,7 +36,7 @@ export default function Hero() {
 
               <h1 className="mt-8 text-white font-semibold tracking-tight leading-[1] text-5xl sm:text-6xl lg:text-6xl xl:text-7xl max-w-4xl lg:mt-4">
                 Inspiring Curious Minds.
-                <span className="block text-amber-300">
+                <span className="block text-amber-300/80">
                   Building Confident Futures.
                 </span>
               </h1>
@@ -62,7 +62,7 @@ export default function Hero() {
 
             {/* RIGHT PANEL */}
             <div className="hidden lg:block">
-              <div className="rounded-[32px] border border-white/10 bg-white/10 backdrop-blur-xl p-8">
+              <div className="rounded-[32px] border border-white/10 bg-white/10 backdrop-blur-md p-8">
                 <div>
                   <p className="text-sm uppercase tracking-[0.15em] text-white/60">
                     Admissions
