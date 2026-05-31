@@ -46,7 +46,7 @@ export default function Hero() {
               </p>
 
               <div className="mt-10 flex flex-col sm:flex-row gap-4">
-                <button className="group flex items-center justify-center gap-2 rounded-full bg-white px-7 py-4 font-medium text-slate-900 transition hover:scale-[1.02]">
+                <button className="group flex items-center justify-center gap-2 rounded-full bg-orange-200 px-7 py-2 font-medium text- transition hover:scale-[1.02]">
                   Book a School Visit
                   <ArrowRight
                     size={18}
@@ -54,7 +54,7 @@ export default function Hero() {
                   />
                 </button>
 
-                <button className="rounded-full border border-white/20 bg-white/10 px-7 py-4 font-medium text-white backdrop-blur-md transition hover:bg-white/15">
+                <button className="rounded-full border border-white/20 bg-white/10 px-7 py-2 font-medium text-white backdrop-blur-md transition hover:bg-white/15">
                   Explore Academics
                 </button>
               </div>
