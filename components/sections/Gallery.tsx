@@ -16,7 +16,7 @@ export default function Gallery() {
     : galleryImages.filter(img => img.category === activeCategory);
 
   return (
-    <section ref={sectionRef} className="py-24 bg-white">
+    <section ref={sectionRef} className="py-24 bg-white" id='gallery'>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">

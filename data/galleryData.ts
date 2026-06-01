@@ -24,7 +24,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: 3,
-    src: "https://images.unsplash.com/photo-1526676032744-f0c4f1b978fd?w=800&h=600&fit=crop",
+    src: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=800&fit=crop",
     alt: "Kids running and playing outside",
     category: "Athletics",
     title: "Outdoor Play"
@@ -38,7 +38,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: 5,
-    src: "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?w=800&h=600&fit=crop",
+    src: "https://images.unsplash.com/photo-1503676382389-4809596d5290?w=1200&h=800&fit=crop",
     alt: "Students reading in library",
     category: "Academics",
     title: "Quiet Reading"
@@ -52,14 +52,14 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: 7,
-    src: "https://images.unsplash.com/photo-1574629819364-5e1b5e4e2d5a?w=800&h=600&fit=crop",
+    src: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=800&fit=crop",
     alt: "Students playing basketball",
     category: "Athletics",
     title: "Team Sports"
   },
   {
     id: 8,
-    src: "https://images.unsplash.com/photo-1599058917765-a3a3bff8e2e9?w=800&h=600&fit=crop",
+    src: "https://images.unsplash.com/photo-1577896851231-70ef18881754?w=1200&h=800&fit=crop",
     alt: "Diverse group of students",
     category: "Campus",
     title: "Our Community"
