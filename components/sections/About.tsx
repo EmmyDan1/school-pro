@@ -120,7 +120,7 @@ export default function About() {
               <div className="absolute -top-6 -left-6 w-24 h-24 border-t border-l border-[#B8925C]/30" />
               <div className="relative aspect-[4/3] overflow-hidden grayscale-[0.15]">
                 <Image
-                  src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1000&h=800&fit=crop"
+                  src="https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=800&h=600&fit=crop"
                   alt="Students engaged in learning"
                   fill
                   sizes="(max-width: 768px) 100vw, 50vw"

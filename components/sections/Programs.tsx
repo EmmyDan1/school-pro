@@ -5,7 +5,7 @@ const programs = [
     description:
       "Children develop confidence, curiosity, communication, and social skills through guided exploration and play.",
     image:
-      "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1200&auto=format&fit=crop",
+       "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=500&fit=crop",
   },
   {
     stage: "Primary School",
@@ -13,7 +13,7 @@ const programs = [
     description:
       "Students develop literacy, numeracy, critical thinking, and the discipline required for long-term success.",
     image:
-      "https://images.unsplash.com/photo-1588072432836-e10032774350?q=80&w=1200&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=800&h=500&fit=crop"
   },
   {
     stage: "Secondary School",
