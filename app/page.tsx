@@ -1,8 +1,11 @@
 import Navbar from "@/components/layout/Navbar";
+import About from "@/components/sections/About";
+import Gallery from "@/components/sections/Gallery";
 import Hero from "@/components/sections/Hero";
 import Programs from "@/components/sections/Programs";
-
-import SchoolStats from "@/components/sections/SchoolStats";
+import Testimonials from "@/components/sections/Testimonials";
+import CTA from "@/components/sections/CTA";
+import Footer from "@/components/layout/Footer";
 
 
 
@@ -11,9 +14,13 @@ export default function Home() {
     <>
       <Navbar />
       <Hero />
-      <SchoolStats/>
-      <Programs/>
-      
+      <About />
+     
+      <Programs />
+      <Gallery />
+      <Testimonials />
+      <CTA />
+      <Footer />
     </>
   );
 }

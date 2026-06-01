@@ -29,7 +29,7 @@ export default function Programs() {
   return (
     <section
       id="programs"
-      className="py-28 bg-[#fafafa]"
+      className="py-12 bg-[#fafafa]"
     >
       <div className="section">
 
