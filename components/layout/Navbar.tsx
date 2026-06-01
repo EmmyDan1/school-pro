@@ -67,9 +67,9 @@ export default function Navbar() {
               </div>
             </div>
 
-            <div className="hidden sm:block ml-6">
+            <div className="ml-10 sm:block lg:ml-6">
               <h2 className={`font-serif text-base lg:text-lg tracking-tight transition-colors duration-300 ${
-                scrolled ? "text-[#2C2418]" : "text-white"
+                scrolled ? "text-[#2C2418]" : "text-orange-100"
               }`}>
                 {schoolData.name}
               </h2>
