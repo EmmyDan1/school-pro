@@ -22,7 +22,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/30 to-black/80" />
 
       {/* Content */}
-      <div className="relative z-10 flex min-h-screen -translate-y-22 lg:translate-y-12">
+      <div className="relative z-10 flex min-h-screen mt-10 lg:translate-y-12">
         <div className="section flex min-h-screen items-end lg:items-center pb-20 sm:pb-24 lg:pb-0">
           {/* Small Label */}
           <div className="w-full grid lg:grid-cols-[1.1fr_420px] gap-16 ">
